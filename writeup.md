@@ -1,4 +1,6 @@
 # Typhoon Vulnerable VM Writeup
+
+### Hazırladıkları bu VM için PRISMACSI ekibine teşekkür ederim.
  
 ![alt text](https://github.com/muratyesiltepe/typhoon-vm/blob/master/1.png)
 
